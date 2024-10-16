@@ -17,9 +17,11 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project]
+![alt text](image.png)
 
 ## Description
 
 Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
-The store of my project is LEGO,I decided to choose LEGO because it is my favortite toy and thing to do when I'm bored.
+
+The store I chose and decided to make was the LEGO store. Building Legos are one of my favorite things to do and going to the LEGO store itself is always a pleasure. I've included words such as "String" to represent a sequence of double quotes (), as well I decided to include the variables "get" to make sure the customer of the store was getting what they are intended to.
